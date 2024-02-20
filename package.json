@@ -1,0 +1,13 @@
+{
+  "name": "msw-truncated",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@mswjs/http-middleware": "^0.9.2",
+    "msw": "^2.2.1"
+  }
+}
